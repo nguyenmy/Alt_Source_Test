@@ -1,0 +1,14 @@
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Alt_Source_Test.exe.config
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Alt_Source_Test.exe
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Alt_Source_Test.pdb
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Store.Common.dll
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Store.Services.dll
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\DAL.dll
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Store.Common.pdb
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\Store.Services.pdb
+E:\Projects\Alt_Source_Test\Alt_Source_Test\bin\Debug\DAL.pdb
+E:\Projects\Alt_Source_Test\Alt_Source_Test\obj\Debug\Alt_Source_Test.csprojAssemblyReference.cache
+E:\Projects\Alt_Source_Test\Alt_Source_Test\obj\Debug\Alt_Source_Test.csproj.CoreCompileInputs.cache
+E:\Projects\Alt_Source_Test\Alt_Source_Test\obj\Debug\Alt_Source_Test.csproj.CopyComplete
+E:\Projects\Alt_Source_Test\Alt_Source_Test\obj\Debug\Alt_Source_Test.exe
+E:\Projects\Alt_Source_Test\Alt_Source_Test\obj\Debug\Alt_Source_Test.pdb
